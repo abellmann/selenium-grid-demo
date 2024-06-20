@@ -1,0 +1,47 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "jetbrains.idea-community@latest": {
+      "last_modified": "2024-06-07T15:28:25Z",
+      "resolved": "github:NixOS/nixpkgs/d226935fd75012939397c83f6c385e4d6d832288#jetbrains.idea-community",
+      "source": "devbox-search",
+      "version": "2024.1.2",
+      "systems": {
+        "x86_64-linux": {
+          "store_path": "/nix/store/pdrg9c4jncn0r75zddyrp4ys50y8gjns-idea-community-2024.1.2"
+        }
+      }
+    },
+    "selenium-server-standalone@latest": {
+      "last_modified": "2024-06-03T07:19:07Z",
+      "resolved": "github:NixOS/nixpkgs/4a4ecb0ab415c9fccfb005567a215e6a9564cdf5#selenium-server-standalone",
+      "source": "devbox-search",
+      "version": "3.141.59",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/qlywq0vgmv3hfi06qvplwnx0fpjy40xq-selenium-server-standalone-3.141.59"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/ck6wcqzmz458j10dcbsr4i7paf0ddmv8-selenium-server-standalone-3.141.59"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/v7kfx88wss90yfippr57yd3p1c8di363-selenium-server-standalone-3.141.59"
+        }
+      }
+    },
+    "temurin-bin-19@latest": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#temurin-bin-19",
+      "source": "devbox-search",
+      "version": "19.0.2",
+      "systems": {
+        "aarch64-linux": {
+          "store_path": "/nix/store/lzvn3dgvw40b83qr8mpw67l1j3b2dw96-temurin-bin-19.0.2"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/kzz78w4vv5y13xljnj2v6hmxhf6i2d6l-temurin-bin-19.0.2"
+        }
+      }
+    }
+  }
+}
