@@ -12,6 +12,26 @@
         }
       }
     },
+    "maven@latest": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#maven",
+      "source": "devbox-search",
+      "version": "3.9.6",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/zfqhk8xddn9z9dfhqxpazwfbg6ax0hxc-apache-maven-3.9.6"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/ls3qifb5kd5b78jrlkqqxx3f9nkhribb-apache-maven-3.9.6"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/2qc130a8y729r76izbwagxwjgdlfc9yw-apache-maven-3.9.6"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/z22jfrphjm815sgrc13g23icxwr4zh89-apache-maven-3.9.6"
+        }
+      }
+    },
     "selenium-server-standalone@latest": {
       "last_modified": "2024-06-03T07:19:07Z",
       "resolved": "github:NixOS/nixpkgs/4a4ecb0ab415c9fccfb005567a215e6a9564cdf5#selenium-server-standalone",

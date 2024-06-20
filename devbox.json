@@ -2,7 +2,8 @@
   "packages": [
     "selenium-server-standalone@latest",
     "temurin-bin-19@latest",
-    "jetbrains.idea-community@latest"
+    "jetbrains.idea-community@latest",
+    "maven@latest"
   ],
   "shell": {
     "init_hook": [
