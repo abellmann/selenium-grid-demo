@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
  
-    <groupId>org.example</groupId>
-    <artifactId>org.selenium4.SeleniumGrid4</artifactId>
+    <groupId>net.bellmannonline</groupId>
+    <artifactId>seleniumgrid</artifactId>
     <version>1.0-SNAPSHOT</version>
  
     <properties>
@@ -17,23 +17,18 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.9.10</version>
+            <version>7.7.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.0.0-alpha-6</version>
-        </dependency>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.8.8</version>
+            <version>4.21.0</version>
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
-            <version>4.0.0-alpha-6</version>
+            <version>4.21.0</version>
         </dependency>
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
